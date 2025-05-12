@@ -25,3 +25,7 @@
 15. Introduction to Classes
 16. Indexers and Attributes
 17. Working with Nullable types
+
+
+# MVC
+# IOC & DI
